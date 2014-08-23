@@ -1,4 +1,4 @@
-#Indentation is 4 tabs.
+#Indentation is 4 spaces.
 #Available routes : /download/filehash  /upload  /server-usage /disk-usage
 import hashlib
 import os
